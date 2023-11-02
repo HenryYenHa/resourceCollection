@@ -25,16 +25,45 @@
       link: "https://www.codewars.com",
       tags: ["practice", "javascript", "js"]
     }
-
+    {
+      name: "CSS Tricks: A guide to flexbox",
+      description: "A guide for CSS's flexbox",
+      link: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      tags: ["frontend", "CSS","flexbox"]
+    }    
+    {
+      name: "CSS Tricks: A guide to grid",
+      description: "A guide for CSS's grid",
+      link: "https://css-tricks.com/snippets/css/complete-guide-grid/",
+      tags: ["CSS", "frontend","grid"]
+    }
+    {
+      name: "Crash Course for CSS",
+      description: "A youtube tutorial crash course of CSS",
+      link: "https://www.youtube.com/watch?v=Icf5D3fEKbM",
+      tags: ["CSS", "tutorial", "crash_course","youtube"]
+    }
+    {
+      name: "Code Academy: CSS Course",
+      description: "Code Academy's Beginner CSS course",
+      link: "https://www.codecademy.com/learn/learn-css",
+      tags: ["CSS", "code_academy","course","beginner"]
+    }
+    {
+      name: "Code Academy: Intermediate CSS Course",
+      description: "Code Academy's Intermediate CSS Course",
+      link: "https://www.codecademy.com/learn/learn-intermediate-css",
+      tags: ["intermediate", "CSS", "code_academy", "course"]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
   ]
 }
 
-CSS:
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://css-tricks.com/snippets/css/complete-guide-grid/
-https://www.youtube.com/watch?v=Icf5D3fEKbM
-https://www.codecademy.com/learn/learn-css
-https://www.codecademy.com/learn/learn-intermediate-css
 
 ExpressJS:
 https://www.youtube.com/watch?v=SccSCuHhOw0
