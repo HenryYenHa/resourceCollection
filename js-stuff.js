@@ -56,6 +56,97 @@
       tags: ["intermediate", "CSS", "code_academy", "course"]
     }
     {
+      name: "ExpressJS",
+      description: "Youtube video learning ExpressJS",
+      link: "https://www.youtube.com/watch?v=SccSCuHhOw0",
+      tags: ["javascript","js","express"]
+    }
+
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
       name: "",
       description: "",
       link: "",
@@ -63,14 +154,6 @@
     }
   ]
 }
-
-
-ExpressJS:
-https://www.youtube.com/watch?v=SccSCuHhOw0
-
-Font-Related Stuff:
-https://fonts.google.com/
-https://heyreliable.com/ultimate-google-font-pairings/
 
 Github:
 https://www.codecademy.com/learn/learn-git-introduction
