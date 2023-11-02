@@ -61,18 +61,17 @@
       link: "https://www.youtube.com/watch?v=SccSCuHhOw0",
       tags: ["javascript","js","express"]
     }
-
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Google Fonts",
+      description: "Google fonts one can import",
+      link: "https://fonts.google.com/",
+      tags: ["google","fonts","css","frontend"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Ultimate Google Font Pairings",
+      description: "A site containing suggested font pairings that one can download from Google fonts",
+      link: "https://heyreliable.com/ultimate-google-font-pairings/",
+      tags: ["google", "fonts","templates","css", "frontend"]
     }
     {
       name: "",
