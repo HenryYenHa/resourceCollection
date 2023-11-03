@@ -74,10 +74,10 @@
       tags: ["google", "fonts","templates","css", "frontend"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Code Academy's Git Stuff",
+      description: "Code Academy's Introduction to GIT",
+      link: "https://www.codecademy.com/learn/learn-git-introduction",
+      tags: ["code_academy", "git","introduction"]
     }
     {
       name: "",
@@ -155,7 +155,6 @@
 }
 
 Github:
-https://www.codecademy.com/learn/learn-git-introduction
 https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-1-32m6
 https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-2-2h5c
 https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-3-1i09
