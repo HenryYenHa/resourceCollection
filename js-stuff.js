@@ -154,10 +154,6 @@
   ]
 }
 
-Github:
-
-https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-2-2h5c
-https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-3-1i09
 
 HTML:
 https://www.markdownguide.org/cheat-sheet/
