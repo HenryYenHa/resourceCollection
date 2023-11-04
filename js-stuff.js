@@ -80,10 +80,10 @@
       tags: ["code_academy", "git","introduction"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Git and Github Tutorials",
+      description: "Git and Github Tutorial",
+      link: "https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-1-32m6",
+      tags: ["git", "github"]
     }
     {
       name: "",
@@ -155,7 +155,7 @@
 }
 
 Github:
-https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-1-32m6
+
 https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-2-2h5c
 https://dev.to/suchintan/git-and-github-tutorial-beginner-to-advanced-part-3-1i09
 
