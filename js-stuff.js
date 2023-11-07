@@ -86,28 +86,28 @@
       tags: ["git", "github"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Markdown Guide Guide (HTML)",
+      description: "Markdown Guide cheatsheet for HTML",
+      link: "https://www.markdownguide.org/cheat-sheet/"
+      tags: ["html", "cheat-sheet","cheat_sheet","guide"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "HTML Youtube tutorial",
+      description: "HTML Youtube tutorial",
+      link: "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+      tags: ["HTML", "youtube"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Code Academy HTML Course",
+      description: "Code Academy HTML Course",
+      link: "https://www.codecademy.com/learn/learn-html",
+      tags: ["HTML", "Code_Academy","course"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "InceptionU Github",
+      description: "InceptionU Github repository",
+      link: "https://github.com/EvolveU-FSD",
+      tags: ["InceptionU","EvolveU","FSD","Github"]
     }
     {
       name: "",
@@ -154,14 +154,6 @@
   ]
 }
 
-
-HTML:
-https://www.markdownguide.org/cheat-sheet/
-https://www.youtube.com/watch?v=qz0aGYrrlhU
-https://www.codecademy.com/learn/learn-html
-
-InceptionU's Code Repository:
-https://github.com/EvolveU-FSD
 
 JavaScript:
 (Beginner) https://www.youtube.com/watch?v=W6NZfCO5SIk&t=1s
