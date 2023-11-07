@@ -196,3 +196,8 @@ https://gist.github.com/acidtone/673dfc5c11ce06e9e8cd6ce33609eb3c
 
 VS Code Shortcuts:
 https://www.youtube.com/watch?v=dI34jrEtmB0
+
+News:
+https://betakit.com/
+https://medium.com/
+https://www.wired.com/
