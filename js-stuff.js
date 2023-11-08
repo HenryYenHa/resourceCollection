@@ -140,6 +140,36 @@
       tags: ["javascript","js",'advanced',"course"]
     }
     {
+      name: "Lodash",
+      description: "Javascript Libraries",
+      link: "https://lodash.com/",
+      tags: ["javascript","js","libraries"]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
       name: "",
       description: "",
       link: "",
@@ -155,9 +185,6 @@
 }
 
 
-
-JavaScript Libraries:
-https://lodash.com/
 
 Linux (Console?) Commands:
 https://www.guru99.com/linux-commands-cheat-sheet.html
