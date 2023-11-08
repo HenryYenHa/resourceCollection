@@ -110,34 +110,34 @@
       tags: ["InceptionU","EvolveU","FSD","Github"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Beginner Youtube Javascript Video",
+      description: "Beginner Youtube Javascript Video",
+      link: "https://www.youtube.com/watch?v=W6NZfCO5SIk&t=1s",
+      tags: ["Javascript","JS","youtube","tutorial","beginner"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Intermediate Youtube Javascript Video",
+      description: "Intermediate Youtube Javascript Video",
+      link: "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts",
+      tags: ["Youtube", "Javascript","JS","tutorial","intermediate"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Code Academy's Introduction to Javascript",
+      description: "Code Academy's Beginner Javascript Course",
+      link: "https://www.codecademy.com/learn/introduction-to-javascript",
+      tags: ["Code_academy", "beginner",'Javascript","js"']
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Free Code Camp's Intermediate Course to Javascript",
+      description: "Free Code Camp's Intermediate Javascript Course",
+      link: "https://www.freecodecamp.org/news/search/?query=Javascript",
+      tags: ["freecodecamp", "intermediate",'Javascript","js"']
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Free Code Camp's Advanced Javascript Course",
+      description: "Free Code Camp's Advanced Javascript Course",
+      link: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+      tags: ["javascript","js",'advanced',"course"]
     }
     {
       name: "",
@@ -155,12 +155,6 @@
 }
 
 
-JavaScript:
-(Beginner) https://www.youtube.com/watch?v=W6NZfCO5SIk&t=1s
-(Beginner) https://www.codecademy.com/learn/introduction-to-javascript
-(Intermediate)https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
-(Intermediate)https://www.freecodecamp.org/news/search/?query=Javascript
-(Advanced)https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
 JavaScript Libraries:
 https://lodash.com/
