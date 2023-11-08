@@ -146,6 +146,48 @@
       tags: ["javascript","js","libraries"]
     }
     {
+      name: "Linux Cheat Sheet",
+      description: "Guru99's linux command cheat sheet",
+      link: "https://www.guru99.com/linux-commands-cheat-sheet.html",
+      tags: ["guru99","linux","cheatsheet","commands"]
+    }
+    {
+      name: "Learn NodeJS",
+      description: "NodeJS's learning",
+      link: "https://nodejs.dev/en/learn/",
+      tags: ["nodejs","javascript"]
+    }
+    {
+      name: "Learning NodeJS on Youtube",
+      description: "Learning NodeJS on Youtube",
+      link: "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+      tags: ["NodeJS","Javascript","js","youtube"]
+    }
+    {
+      name: "Coolor's Palette Picker",
+      description: "Palette Picker",
+      link: "https://coolors.co/image-picker",
+      tags: ["coolers","palette","design","colors","colours"]
+    }
+    {
+      name: "FreeFrontEnd Code Templates",
+      description: "Front end code templates",
+      link: "https://freefrontend.com/",
+      tags: ["templates"]
+    }
+    {
+      name: "CSS Templates (Buttons)",
+      description: "CSS Template buttons",
+      link: "https://getcssscan.com/css-buttons-examples",
+      tags: ["CSS","buttons","templates"]
+    }
+    {
+      name: "",
+      description: "",
+      link: "",
+      tags: [""]
+    }
+    {
       name: "",
       description: "",
       link: "",
@@ -185,20 +227,6 @@
 }
 
 
-
-Linux (Console?) Commands:
-https://www.guru99.com/linux-commands-cheat-sheet.html
-
-NodeJS:
-https://nodejs.dev/en/learn/
-https://www.youtube.com/watch?v=TlB_eWDSMt4
-
-Palette Picker:
-https://coolors.co/image-picker
-
-Sample Code/Templates:
-https://freefrontend.com/
-https://getcssscan.com/css-buttons-examples
 
 Sharing/Testing/Collaborating Code:
 https://codepen.io/pen/
