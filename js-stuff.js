@@ -182,63 +182,48 @@
       tags: ["CSS","buttons","templates"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Sharing/Collaborating Code",
+      description: "Sharing/Collaborating code",
+      link: "https://codepen.io/pen/",
+      tags: ["codepen","sharing"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "JS Sharing Code",
+      description: "JS Sharing Code",
+      link: "https://jsfiddle.net/",
+      tags: ["js","javascript","code","share"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Tony's List of Free APIs",
+      description: "Tony's List of Free APIs",
+      link: "https://gist.github.com/acidtone/673dfc5c11ce06e9e8cd6ce33609eb3c",
+      tags: ["tony","free","APIs"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "VS Code Shortcuts",
+      description: "Youtube VS Code Shortcuts",
+      link: "https://www.youtube.com/watch?v=dI34jrEtmB0",
+      tags: ["VS code", "visual_studios","youtube"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Betakit Tech news",
+      description: "Tech News",
+      link: "https://betakit.com/",
+      tags: ["news","betakit"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Medium tech news",
+      description: "Medium Tech news",
+      link: "https://medium.com/",
+      tags: ["medium","news"]
     }
     {
-      name: "",
-      description: "",
-      link: "",
-      tags: [""]
+      name: "Wired Tech news",
+      description: "Wired Tech news",
+      link: "https://www.wired.com/",
+      tags: ["wired","news"]
     }
   ]
 }
 
 
-
-Sharing/Testing/Collaborating Code:
-https://codepen.io/pen/
-https://jsfiddle.net/
-
-Tony's List of Free APIs:
-https://gist.github.com/acidtone/673dfc5c11ce06e9e8cd6ce33609eb3c
-
-VS Code Shortcuts:
-https://www.youtube.com/watch?v=dI34jrEtmB0
-
-News:
-https://betakit.com/
-https://medium.com/
-https://www.wired.com/
